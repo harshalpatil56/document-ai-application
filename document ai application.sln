@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "document ai application", "document ai application\document ai application.pyproj", "{388D56AA-AE55-4A28-8542-BE0DB4AF31B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{388D56AA-AE55-4A28-8542-BE0DB4AF31B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{388D56AA-AE55-4A28-8542-BE0DB4AF31B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E04A6E6-159D-40BD-83D9-0BB1FBB725F5}
+	EndGlobalSection
+EndGlobal
